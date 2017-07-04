@@ -1,1 +1,1 @@
-alert('hello this is a github test');
+alert('Hello this is a github test');
